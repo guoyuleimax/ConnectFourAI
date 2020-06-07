@@ -1,6 +1,6 @@
 # ConnectFourAI
 
-Final Project for CS5 at Harvey Mudd College: Game AI: Connect Four
+Final Project for CS5 Spring 2019 at Harvey Mudd College: Game AI: Connect Four
 
 ## Extension Implementation
 
